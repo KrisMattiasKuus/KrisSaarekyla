@@ -1,0 +1,2 @@
+<!-- ProductFilters.vue -->
+<template></template>
