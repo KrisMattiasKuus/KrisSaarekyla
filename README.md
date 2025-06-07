@@ -67,3 +67,15 @@ To start the Laravel server:
 php artisan serve
 ```
 Visit http://localhost:8000
+
+
+---
+
+### Admin Panel Access
+
+To access the panel, you must visit the route
+```bash
+http://localhost:8000/login
+```
+
+Here you will need to sign up with an account and the. you'll be redirected to the control panel.
