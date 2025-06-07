@@ -30,7 +30,7 @@
 
     <!-- Main Content -->
     <div class="flex-1 p-6 max-w-4xl mx-auto">
-      <h1 class="text-2xl font-bold mb-6">Product Admin</h1>
+      <h1 class="text-2xl font-bold mb-6 text-white">Product Admin</h1>
 
       <!-- Create Product Form -->
       <form
