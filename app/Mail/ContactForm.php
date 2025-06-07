@@ -13,6 +13,11 @@ class ContactForm extends Mailable
 {
     use Queueable, SerializesModels;
 
+    public $name;
+    public $email;
+    public $phone;
+    public $message;
+
     /**
      * Create a new message instance.
      */
@@ -41,6 +46,12 @@ class ContactForm extends Mailable
     {
         return new Content(
             view: 'emails.contact',
+            with: [
+                'name' => $this->name,
+                'email' => $this->email,
+                'phone' => $this->phone,
+                'messageText' => $this->message,
+            ],
         );
     }
 
