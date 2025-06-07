@@ -55,42 +55,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Footer Links -->
-            <div class="mt-16 grid grid-cols-2 gap-8 border-t pt-12 md:grid-cols-4">
-                <div>
-                    <h3 class="mb-4 font-bold">Saareküla Vaike</h3>
-                    <ul class="space-y-2">
-                        <li>Avaleht</li>
-                        <li>Ajalugu</li>
-                        <li>Jaanus Vaike</li>
-                        <li>Ajakava</li>
-                        <li>Tooted</li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h3 class="mb-4 font-bold">Pood</h3>
-                    <ul class="space-y-2">
-                        <li>Tooted</li>
-                        <li>Kategooriad</li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h3 class="mb-4 font-bold">Kontaktid</h3>
-                    <ul class="space-y-2">
-                        <li>Kirjuta meile</li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h3 class="mb-4 font-bold">Annetused</h3>
-                    <ul class="space-y-2">
-                        <li>Info</li>
-                    </ul>
-                </div>
-            </div>
         </section>
     </LayoutWrapper>
 </template>

@@ -11,9 +11,11 @@
             <li><a :href="route('contact')" class="hover:underline">Kontakt</a></li>
         </ul>
         <div class="flex items-center gap-4">
-            <button>
-                <img src="/images/attach_money.png" alt="Cart" class="h-6 w-6" />
-            </button>
+                <button>
+                    <a :href="route('donate')">
+                    <img src="/images/attach_money.png" alt="Cart" class="h-6 w-6" />
+                    </a>
+                </button>
         </div>
     </nav>
 </template>
