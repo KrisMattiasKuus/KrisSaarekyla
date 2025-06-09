@@ -19,7 +19,7 @@ This is a modern web application for the **Saareküla Vaike Tuulik** project. It
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/krismattiaskuus/saare-tuulik.git
+git clone https://github.com/krismattiaskuus/krissaarekyla.git
 cd saare-tuulik
 ```
 
