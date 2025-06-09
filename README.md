@@ -20,7 +20,7 @@ This is a modern web application for the **Saareküla Vaike Tuulik** project. It
 
 ```bash
 git clone https://github.com/krismattiaskuus/krissaarekyla.git
-cd saare-tuulik
+cd Krissaarekyla
 ```
 
 ### 2. Install PHP Dependencies
